@@ -1,0 +1,18 @@
+h1{
+    color: rgb(211, 211, 228);
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: cadetblue;
+    padding: 50px;
+    border-color: cornflowerblue;
+    border-width: 2px;
+}
+#spanId{
+    font-size: 25xp;
+    margin: 50px;
+}
