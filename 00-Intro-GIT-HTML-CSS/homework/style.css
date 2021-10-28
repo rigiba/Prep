@@ -16,3 +16,12 @@ img{
     font-size: 25xp;
     margin: 50px;
 }
+body{
+    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+
+div{
+    display: block;
+    margin-right: auto;
+    border-style: solid;
+}
