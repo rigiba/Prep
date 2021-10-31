@@ -1,27 +1,40 @@
-h1{
-    color: rgb(211, 211, 228);
-}
-img{
-    width: 400px;
-}
-#thirdDiv{
-    height: 600px;
-    width: 500px;
-    background-color: cadetblue;
-    padding: 50px;
-    border-color: cornflowerblue;
-    border-width: 2px;
-}
-#spanId{
-    font-size: 25xp;
-    margin: 50px;
-}
-body{
-    background-image: url("https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+h1 {
+    color: rgb(141, 248, 155);
 }
 
-div{
+
+#spanId {
+    color: rgb(238, 59, 59);
+}
+
+body {
+    background-image: url("__https://mdn.mozillademos.org/files/6457/mdn_logo_only_color.png");
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+/* div {
     display: block;
-    margin-right: auto;
     border-style: solid;
+} */
+
+.divClass {
+    align-content: center;
+    border: 2px solid;
+    align-items: center;
+    
+}
+#thirdDiv {
+    width: 800px;
+    background-color: rgb(160, 240, 243);
+    padding: 50px;
+    align-content: center;
+    border: solid 20px;
+}
+
+div:li{
+    color: darksalmon;
 }
